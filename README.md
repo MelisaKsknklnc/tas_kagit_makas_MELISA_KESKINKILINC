@@ -1,6 +1,6 @@
 # TAŞ KAĞIT MAKAS OYUNU
 Bu proje Aygaz Python Bootcamp: Yeni Nesil Proje Kampı kapsamında hazırlanmıştır.
-Bilgisayara karşı oynanan bu oyunda her oyun 3 turdan oluşmakta ve 3 tur sonucunda önde tamamlayan taraf oyunun galibi olmaktadır. Ayrıca 5 tur kazanan taraf şampiyon olmaktadır.
+Bilgisayara karşı oynanan bu oyunda, her oyun 3 turdan oluşmakta ve 3 tur sonucunda önde tamamlayan taraf oyunun galibi olmaktadır. Ayrıca 5 tur kazanan taraf şampiyon olmaktadır.
 Bilgisayarın seçenekler içerisinden rastgele seçim yapabilmesi için random kütüphanesi kullanılmıştır. Ayrıca hem bilgisayar hem de oyuncu istediği an oyundan çıkış yapabilme hakkına sahiptir. Ancak bilgisayarın rastgele çıkış yapma ihtimalini azaltmak için her 3 tur sonunda çıkış yapma ihtimali %5'den az olacak şekilde ayarlanmıştır. 
 
 Klavyeden girilecek girdinin büyük-küçük harf hassasiyetini engellemek için .upper() metodu, oyuncu yanlışlıkla boşluk bırakırsa hatalı girişi engellemek için .strip() metodu kullanılmıştır.
